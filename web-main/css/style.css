@@ -183,9 +183,7 @@ header .header nav ul li ul{
     background-color: #09e6a8;
     display: none;
 }
-header .header nav ul li {
-    position: relative;
-}
+
 header .header nav ul li ul li {
     padding: 15px 10px;
     border-bottom: 1px solid white;
